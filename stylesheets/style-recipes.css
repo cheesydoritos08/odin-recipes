@@ -1,0 +1,36 @@
+img {
+    height: 300px;
+    width: 300px;
+    margin: 0 35%;
+}
+
+.heading {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50;
+    color: rgb(59, 3, 70);
+    text-align: center;
+}
+
+.list,
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(48, 23, 53);
+    background-color: rgb(205, 137, 226);
+    padding: 10px 40px;
+    border: 10px double rgb(73, 20, 104);
+    display: block;
+}
+
+body {
+    background-color: rgb(226, 198, 243);
+    margin: 0 auto;
+    width: 900px
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    color: rgb(11, 0, 14)
+}
